@@ -1,0 +1,5 @@
+.vscode/
+textbooks/
+__pycache__/
+.pytest_cache/
+dobot.code-workspace
